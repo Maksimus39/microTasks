@@ -13,8 +13,9 @@ html, body, #root {
 }
 
 .Header {
+    flex-direction: column;
     width: 80%;
-    height: 80px;
+    height: 150px;
     background-color: crimson;
     border-radius: 15px;
     display: flex;
