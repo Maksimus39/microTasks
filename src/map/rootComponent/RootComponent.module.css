@@ -1,0 +1,20 @@
+.NewComponents {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.List {
+    list-style-type: none;
+    text-align: center;
+    font-size: 36px;
+}
+
+.Black {
+    color: black;
+}
+
+.Red {
+    color: red;
+}
