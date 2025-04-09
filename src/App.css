@@ -44,6 +44,22 @@ html, body, #root {
     color: lightblue;
 }
 
+.Body_body {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 30px;
+}
+
+.Money {
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
 .Footer {
     display: flex;
     width: 80%;
